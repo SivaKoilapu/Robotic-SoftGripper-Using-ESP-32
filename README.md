@@ -29,7 +29,7 @@ The firmware is written in C++ and leverages `BlynkSimpleEsp32` for remote telem
 
 ---
 **Team:** 
--Harshit Gupta
--Kanav Gupta
--SivaSankara Dasu Koilapu
+-Harshit Gupta<br>
+-Kanav Gupta<br>
+-SivaSankara Dasu Koilapu<br>
 -Nikita Chitra
