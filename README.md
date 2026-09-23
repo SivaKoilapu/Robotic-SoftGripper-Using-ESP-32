@@ -1,4 +1,4 @@
-# ESP32 IoT Robotic Arm & Tendon-Driven Soft Gripper
+# ESP32 IoT Robotic Arm Soft Gripper
 
 An IoT-controlled robotic arm featuring a continuous-rotation pan/tilt base and a custom three-finger, tendon-driven mechanical soft gripper. The system is driven by an ESP32 and controlled remotely via the Blynk IoT platform.
 
@@ -28,4 +28,8 @@ The firmware is written in C++ and leverages `BlynkSimpleEsp32` for remote telem
    * **V2 (Switch):** Map to `0 and 100` (Gripper Open/Close)
 
 ---
-**Author:* * Aadi Shah | B.Tech Mechanical Engineering, IIT Ropar
+**Team:** 
+Harshit Gupta
+Kanav Gupta
+SivaSankara Dasu Koilapu
+Nikita Chitra
