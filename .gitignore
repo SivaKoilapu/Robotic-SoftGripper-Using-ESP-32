@@ -1,0 +1,6 @@
+# Arduino/C++ Build Files
+*.elf
+*.hex
+*.bin
+build/
+.vscode/
