@@ -28,7 +28,7 @@ The firmware is written in C++ and leverages `BlynkSimpleEsp32` for remote telem
    * **V2 (Switch):** Map to `0 and 100` (Gripper Open/Close)
 
 ---
-**Team:** 
+**Team:**<br> 
 -Harshit Gupta<br>
 -Kanav Gupta<br>
 -SivaSankara Dasu Koilapu<br>
